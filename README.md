@@ -65,6 +65,7 @@ Ce projet vise à répondre à l'objectif de la ville de Seattle : **atteindre l
 ### Analyse de l'EnergyStarScore
 
 ![Analyse_EnergyScore](Illustration_diapos/interet_variable_energy_score.png)
+![Analyse_EnergyScore](Illustration_diapos/interet_variable_energy_score1.png)
 
 - L'inclusion de la variable *EnergyStarScore* n'améliore pas significativement les performances prédictives, mais elle peut être utilisée selon les besoins métiers.
 
