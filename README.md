@@ -63,7 +63,10 @@ Ce projet vise à répondre à l'objectif de la ville de Seattle : **atteindre l
 ![Model Performance](Illustration_diapos/res_graphique_modelisation_emissions.png)
 
 ### Analyse de l'EnergyStarScore
-- L'inclusion de *EnergyStarScore* n'améliore pas significativement les performances prédictives, mais elle peut être utilisée selon les besoins métiers.
+
+![Analyse_EnergyScore](Illustration_diapos/interet_variable_energy_score.png)
+
+- L'inclusion de la variable *EnergyStarScore* n'améliore pas significativement les performances prédictives, mais elle peut être utilisée selon les besoins métiers.
 
 ---
 
