@@ -55,12 +55,12 @@ Ce projet vise à répondre à l'objectif de la ville de Seattle : **atteindre l
     - R² : 0,91
     - RMSE : 0,408
 
-![Model Performance](Illustration_diapos/resultats_rnd_search_conso_energie)
-![Model Performance](Illustration_diapos/resultats_grid_search_conso_energie)
-![Model Performance](Illustration_diapos/res_graphique_modelisation_conso)
-![Model Performance](Illustration_diapos/resultats_rnd_search_emissions)
-![Model Performance](Illustration_diapos/resultats_grid_search_emissions)
-![Model Performance](Illustration_diapos/res_graphique_modelisation_emissions)
+![Model Performance](Illustration_diapos/resultats_rnd_search_conso_energie.png)
+![Model Performance](Illustration_diapos/resultats_grid_search_conso_energie.png)
+![Model Performance](Illustration_diapos/res_graphique_modelisation_conso.png)
+![Model Performance](Illustration_diapos/resultats_rnd_search_emissions.png)
+![Model Performance](Illustration_diapos/resultats_grid_search_emissions.png)
+![Model Performance](Illustration_diapos/res_graphique_modelisation_emissions.png)
 
 ### Analyse de l'EnergyStarScore
 - L'inclusion de *EnergyStarScore* n'améliore pas significativement les performances prédictives, mais elle peut être utilisée selon les besoins métiers.
@@ -80,8 +80,8 @@ Ce projet vise à répondre à l'objectif de la ville de Seattle : **atteindre l
   - Surface totale.
 
 ### Prédictions
-![Predictions](Illustration_diapos/predictions_conso)
-![Predictions](Illustration_diapos/predictions_emissions)
+![Predictions](Illustration_diapos/predictions_conso.png)
+![Predictions](Illustration_diapos/predictions_emissions.png)
 
 ---
 
